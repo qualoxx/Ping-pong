@@ -46,7 +46,7 @@ FPS = 60
 
 racket1 = Player('racket.png', 30, 200, 40, 50, 4) 
 racket2 = Player('racket.png', 520, 200, 40, 50, 4)
-ball = GameSprite('tenis_ball.png', 200, 200, 40, 50, 50)
+ball = GameSprite('ball.png', 200, 200, 40, 50, 70)
 
 font.init()
 font = font.Font(None, 35)
